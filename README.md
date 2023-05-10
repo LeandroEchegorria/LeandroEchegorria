@@ -49,3 +49,5 @@
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandroechegorria&show_icons=true&locale=en" alt="leandroechegorria" /></p>
+<h3 align="center">Support:</h3>
+<p><a href="http://mpago.li/16NsefR "> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="http://mpago.li/16NsefR " /></a><a href="https://ko-fi.com/http://mpago.li/16NsefR "> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="http://mpago.li/16NsefR " /></a></p><br><br>
